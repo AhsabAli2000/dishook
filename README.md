@@ -1,4 +1,4 @@
-# simpleDiscordWebHookClient
+# dishook
 A simple wrapper around Discord WebHook Api (Work in progress)
 
 This is a client i am trying to make for interating with the discord webhook?
